@@ -1,1 +1,1 @@
-# Impression3DSlicingEngine
+# 3DPrintingSlicingEngine
